@@ -1,6 +1,6 @@
 FROM debian:stretch-slim
 
-ENV IRRD_VERSION 3.0.6
+ENV IRRD_VERSION 3.0.8
 
 WORKDIR /root
 
